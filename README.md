@@ -1,1 +1,1 @@
-# CMEpredict
+# We presented an explainable deep learning model for solar storm prediction, focusing on flares and coronal mass ejections (CMEs). Using an LSTM network with attention, we model solar active region data as time series to predict CME occurrence following a flare. To enhance transparency, we apply post hoc model-agnostic XAI techniques to interpret predictions and understand model behavior. This is the first application of interpretability tools to an LSTM-based solar storm prediction model.
